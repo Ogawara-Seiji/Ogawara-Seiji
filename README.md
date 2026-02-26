@@ -9,7 +9,12 @@
     <a href="https://github.com/Ogawara-Seiji">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0SdISOxkQMjT3mM6p2boxAzvza3HkdKtPDoZGEDtEGD9vQVG_WYuXAC0sw0C5GPBm5whjWYnMx">
+      <img src="https://img.shields.io/static/v1?label=&message=Let%27s%20Talk&color=0ea5e9&style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Let's Talk (Google Calendar)" />
+    </a>
   </p>
+  
 </div>
 
 ## Tech Stack
