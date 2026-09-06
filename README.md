@@ -51,8 +51,8 @@
 ## Certifications
 
 <p>
-  <a href="https://www.credly.com/badges/dc99535b-d4eb-4353-aa9d-65923c0806ca/public_url">
-    <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate_(SAA)-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect - Associate (SAA)" />
+  <a href="https://www.credly.com/badges/57a082cd-dacb-4f54-b9d9-06849ae53521">
+    <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional_(SAP)-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect - Professional (SAP)" />
   </a>
   <a href="https://www.credly.com/badges/5f10cf5b-3443-4725-9aac-9f32de5c02e9/public_url">
     <img src="https://img.shields.io/badge/AWS_Certified-Machine_Learning_Specialty_(MLS)-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Machine Learning - Specialty (MLS)" />
